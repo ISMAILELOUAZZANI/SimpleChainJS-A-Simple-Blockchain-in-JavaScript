@@ -1,0 +1,12 @@
+{
+  "name": "simplechainjs",
+  "version": "1.0.0",
+  "description": "A simple blockchain in JavaScript for learning and certification.",
+  "main": "simplechain.js",
+  "scripts": {
+    "start": "node simplechain.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
